@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6fa6ded6-a7ec-4358-a376-ae8357e4dbb1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/GeekHub-2020.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoloLearn/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoloLearn/.idea/SoloLearn.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoloLearn/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoloLearn/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoloLearn/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoloLearn/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoloLearn/Task on if_else.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoloLearn/else_if/else_if.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoloLearn/else_if/else_if.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoloLearn/if_else/if_else.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoloLearn/if_else/if_else.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/exportToHTML" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="30155552-7915-4fce-87f5-2593e86a5e3d" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/SoloLearn/else_if/else_if.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/SoloLearn/if_else/if_else.js" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectId" id="1jMcxuyfaDzduHDYF43EUjGqbMf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/SoloLearn/if_else" />
+      <recent name="$PROJECT_DIR$/SoloLearn" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6fa6ded6-a7ec-4358-a376-ae8357e4dbb1" name="Default Changelist" comment="" />
+      <created>1603617666939</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603617666939</updated>
+      <workItem from="1603617671490" duration="914000" />
+      <workItem from="1605633615749" duration="12969000" />
+      <workItem from="1605706914095" duration="443000" />
+      <workItem from="1605709803167" duration="700000" />
+      <workItem from="1605710505364" duration="25000" />
+      <workItem from="1605710953221" duration="1068000" />
+      <workItem from="1605712029782" duration="190000" />
+      <workItem from="1605712274526" duration="236000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="177" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605705500909">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="177" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog/72.27.1294.741@72.27.1294.741" timestamp="1605705500909" />
+    <state x="512" y="135" width="495" height="498" key="FileChooserDialogImpl" timestamp="1605712024445">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="512" y="135" width="495" height="498" key="FileChooserDialogImpl/72.27.1294.741@72.27.1294.741" timestamp="1605712024445" />
+    <state x="520" y="298" width="417" height="165" key="Github.CreateGistDialog" timestamp="1605711537915">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="520" y="298" width="417" height="165" key="Github.CreateGistDialog/72.27.1294.741@72.27.1294.741" timestamp="1605711537915" />
+    <state x="568" y="277" width="322" height="207" key="Github.ShareDialog" timestamp="1605638426356">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="568" y="277" width="322" height="207" key="Github.ShareDialog/72.27.1294.741@72.27.1294.741" timestamp="1605638426356" />
+    <state x="551" y="64" width="345" height="633" key="Github.UntrackedFilesDialog" timestamp="1603617919139">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="551" y="64" width="345" height="633" key="Github.UntrackedFilesDialog/72.27.1294.741@72.27.1294.741" timestamp="1603617919139" />
+    <state x="211" y="27" width="1022" height="737" key="SettingsEditor" timestamp="1605711706494">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="211" y="27" width="1022" height="737" key="SettingsEditor/72.27.1294.741@72.27.1294.741" timestamp="1605711706494" />
+    <state x="500" y="312" width="428" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605712046804">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="500" y="312" width="428" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/72.27.1294.741@72.27.1294.741" timestamp="1605712046804" />
+    <state x="72" y="27" width="618" height="741" key="find.popup" timestamp="1605636058181">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="72" y="27" width="618" height="741" key="find.popup/72.27.1294.741@72.27.1294.741" timestamp="1605636058181" />
+    <state x="552" y="191" width="324" height="419" key="svn.repositoryBrowser" timestamp="1605707051643">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="552" y="191" width="324" height="419" key="svn.repositoryBrowser/72.27.1294.741@72.27.1294.741" timestamp="1605707051643" />
+    <state x="458" y="168" width="512" height="472" key="svn4idea.import.options" timestamp="1605707037129">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="458" y="168" width="512" height="472" key="svn4idea.import.options/72.27.1294.741@72.27.1294.741" timestamp="1605707037129" />
+  </component>
+</project>
