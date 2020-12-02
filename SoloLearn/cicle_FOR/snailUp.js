@@ -9,4 +9,4 @@ for (i = 0; i <= depth; i) {
     
 console.log(i);
 }  
-console.log(x);
+document.write(x);
