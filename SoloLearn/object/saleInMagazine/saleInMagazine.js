@@ -7,7 +7,7 @@ var prod1 = new Product(prodID, price);
 document.write('Вывод данных через JS: <br />' + prod1.prodID + " price: " + prod1.price);
 
 //сформируйте скидку
-var discount = 1700 - (1700* (15/100))
+var discount = price - (price* (discount /100));
 prod1.changePrice(discount);
 
 document.write('<br />' + prod1.prodID + " new price: " + prod1.price);
