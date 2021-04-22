@@ -17,3 +17,4 @@ function sumTwoSmallestNumbers(numbers) {
     return sumOfSmallNumbers;
 }
 sumTwoSmallestNumbers([ 6.12, 82, -74, 1, 54]);
+
